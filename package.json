@@ -1,0 +1,18 @@
+{
+  "name": "voice_ordering_system",
+  "version": "1.0.0",
+  "description": "order menu items using voice recoginition",
+  "main": "main.js",
+  "dependencies": {
+    "voice-speech-recognition": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "JC Gonzalez",
+  "license": "ISC"
+}
